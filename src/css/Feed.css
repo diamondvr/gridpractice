@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.feedTab {
+    width: 100%;
+    color: black;
+}
+
+.feedBox {
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+.navBar {
+    width: 100%;
+    height: 45px;
+    background-color: rgb(73, 73, 212);
+    color: white;
+}
+
+.menuList {
+    list-style: none;
+}
+
+.menuList li {
+    float: left;
+    padding: 10px;
+}

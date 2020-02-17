@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+.profSide {
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(180, 180, 180);
+    margin: 10px;
+    text-align: center;
+}
+
+.uPic {
+    max-width: 150px;
+    border-radius: 50%;
+}

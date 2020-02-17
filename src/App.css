@@ -1,0 +1,17 @@
+.content {
+  width: 80%;
+  margin: auto;
+  background-color: rosybrown;
+}
+
+.leftSide {
+  float: left;
+  width: 75%;
+  padding: 0;
+}
+
+.rightSide {
+  float: right;
+  width: 25%;
+  padding: 0;
+}
