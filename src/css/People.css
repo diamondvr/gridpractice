@@ -14,7 +14,7 @@
 
 .peopleList li {
     float: left;
-    margin: 10px;
+    padding: 5px;
 }
 
 .peopleList li div {
