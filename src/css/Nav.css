@@ -17,3 +17,9 @@
     float: left;
     padding: 10px;
 }
+
+.link {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}

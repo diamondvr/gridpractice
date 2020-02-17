@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+.peopleContainer {
+    width: 100%;
+    padding: 10px;
+}
+
+.peopleList {
+    list-style: none;
+    text-align: center;
+}
+
+.peopleList li {
+    float: left;
+    margin: 10px;
+}
+
+.peopleList li div {
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 5px;
+    padding: 5px;
+}

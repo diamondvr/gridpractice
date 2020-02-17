@@ -2,6 +2,8 @@ import React from 'react';
 import Nav from './components/Nav';
 import Feed from './components/Feed';
 import Profile from './components/Profile';
+import People from './components/People';
+import { Route } from 'react-router-dom';
 import './App.css';
 
 function App() {
@@ -12,7 +14,8 @@ function App() {
       </header>
       <div className="content">
         <div className="leftSide">
-          <Feed />
+          <Route path="/feed" component={ Feed } />
+          <Route path="/people" component={ People } />
         </div>
         <div className="rightSide">
           <Profile />
